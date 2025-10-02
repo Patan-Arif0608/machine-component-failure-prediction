@@ -25,7 +25,7 @@ This project is an end-to-end predictive maintenance solution for electric vehic
 ## Directory Structure
 
 ```
-project-bolt-sb1-qafiysuz/
+machine-component-failure-prediction/
 │
 ├── backend/
 │   ├── app.py
